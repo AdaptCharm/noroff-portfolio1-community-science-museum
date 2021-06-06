@@ -1,0 +1,10 @@
+.layout {
+  position: absolute;
+  z-index: 97;
+  width: 100%;
+}
+
+.inner {
+  margin: 0 auto;
+  max-width: 1200px;
+}
